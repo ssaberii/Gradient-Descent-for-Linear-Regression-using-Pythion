@@ -1,1 +1,1 @@
-# Gradient-descent-implementation
+# Gradient-descent-implementation-using-Python
