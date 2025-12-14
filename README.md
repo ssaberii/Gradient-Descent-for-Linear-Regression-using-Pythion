@@ -1,1 +1,1 @@
-# Gradient-descent-implementation-using-Python
+Gradient Descent for Linear Regression
