@@ -1,6 +1,5 @@
 ## Goals
-optimizing model parameters using gradient descent.
-## Tools
-- NumPy, a popular library for scientific computing
-- Matplotlib, a popular library for plotting data
-- plotting routines in the lab_utils.py file in the local directory
+# What this project does:
+Generates some synthetic data (y = 2x + 3 + noise).
+Uses gradient descent to find the best slope (theta1) and intercept (theta0) that minimize the mean squared error.
+Plots the data and the fitted line.
